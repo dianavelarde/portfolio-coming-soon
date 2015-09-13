@@ -16,3 +16,19 @@ html {
 *, *:before, *:after {
 	box-sizing: inherit;
 }
+
+body { 
+    background-color: #eaeaea;
+}
+
+.name { 
+    font-size: 25pt;
+    font-family: "Indie Flower", cursive;
+    margin-left: 2.5em;
+}
+
+h2 {
+    font-family: "Indie Flower", cursive;
+    font-size: 15pt;
+    text-align: center;
+}
