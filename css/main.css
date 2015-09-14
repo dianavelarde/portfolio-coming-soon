@@ -32,3 +32,8 @@ h2 {
     font-size: 15pt;
     text-align: center;
 }
+
+.arrow{
+    resize: horizontal;
+}
+
