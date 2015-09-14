@@ -27,7 +27,7 @@ body {
 .name { 
     font-size: 25pt;
     font-family: 'Pacifico', cursive;
-    margin-left: 2.5em;
+    margin-left: 2.8em;
 }
 
 h2 {
@@ -66,13 +66,95 @@ h2 {
     #logo {
         width: 300px;
         height: 300px;
+        margin-left: 2em;
+    }
+
+
+@media only screen and (min-width:30em) {
+    
+       #logo {
+        margin-left: 6em;
     }
     
-@media only screen and (min-width: 30em) {
-
-	.name {
-		margin-left: 4.8em;
-
-	}
- 	
+    .name { 
+    margin-left: 4.8em;
 }
+    .behance {
+    margin-left: 13em;
+}
+
+    .instagram {
+    margin-left: 15.8em;
+}
+    .arrow {
+    margin-left: 15em;
+}
+
+}
+
+
+@media only screen and (min-width:40em) {
+    
+       #logo {
+        margin-left: 11em;
+    }
+    
+    .name { 
+    margin-left: 7.8em;
+}
+    .behance {
+    margin-left: 17em;
+}
+
+    .instagram {
+    margin-left: 21.8em;
+}
+    .arrow {
+    margin-left: 20em;
+}
+
+}@media only screen and (min-width:60em) {
+    
+       #logo {
+        margin-left: 32em;
+    }
+    
+    .name { 
+    margin-left: 17.3em;
+}
+    .behance {
+    margin-left: 40em;
+}
+
+    .instagram {
+    margin-left: 43.8em;
+}
+    .arrow {
+    margin-left: 42em;
+}
+
+}
+
+}@media only screen and (min-width:90em) {
+    
+       #logo {
+        margin-left: 58em;
+    }
+    
+    .name { 
+    margin-left: 16.3em;
+}
+    .behance {
+    margin-left: 32em;
+}
+
+    .instagram {
+    margin-left: 36.8em;
+}
+    .arrow {
+    margin-left: 34em;
+}
+
+}
+
+    
